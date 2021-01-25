@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxTask</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Open">Open</string>
+    <string name="Save">Save</string>
+    <string name="Convert">Convert</string>
+</resources>
